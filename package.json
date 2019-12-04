@@ -1,0 +1,10 @@
+{
+  "name": "twitter_test",
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security",
+    "twitter": "^1.7.1"
+  }
+}
